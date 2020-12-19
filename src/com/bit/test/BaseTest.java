@@ -17,6 +17,7 @@ public class BaseTest {
 		System.out.println("Firstname: "+StudentName+"\nid: "+id+"\nDoB: "+DOB);
 		
 	}
+	int b = 10;
     
 	
 	
